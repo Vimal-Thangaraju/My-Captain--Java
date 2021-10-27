@@ -1,4 +1,4 @@
-public class matrixAdd{  
+public class matrixMultiply{  
 public static void main(String args[]){  
   
     int a[][]={{1,2,3},{2,3,4},{3,4,5}};    
